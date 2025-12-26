@@ -27,7 +27,7 @@ for (let i = 0; i < dotsCount; i++) {
     });
 }
 
-const texts = [ "" ];
+const texts = [ "", "" ];
 
 let index = 0;
 
