@@ -27,11 +27,7 @@ for (let i = 0; i < dotsCount; i++) {
     });
 }
 
-const texts = [
-    "what I've known", 
-    "Never shined",
-    "through in what I've shown."
-];
+const texts = [ "" ];
 
 let index = 0;
 
